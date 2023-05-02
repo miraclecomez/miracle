@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "624770852586",
+    "project_id": "jadwal-masjid-7d209",
+    "storage_bucket": "jadwal-masjid-7d209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624770852586:android:b19baf8425d49d44399993",
+        "android_client_info": {
+          "package_name": "com.example.miracle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624770852586-f1ve6v6mnbkqtbm2s0bjgq7gblcto8t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS03Xe-2-Xk7yvOrWk591Bt8ugfvXcfP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624770852586-f1ve6v6mnbkqtbm2s0bjgq7gblcto8t0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "624770852586-agfs83njpfn38asrff49hili6nrsrrgk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.miracle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
